@@ -6,7 +6,9 @@ You can click the Preview link to take a look at your changes.
 # 𝐇𝐢, 𝐈'𝐦 𝐍𝐢𝐤𝐡𝐚𝐫! 👋
   - 🇮‌'🇲‌ 🇨‌🇺‌🇷‌🇷‌🇪‌🇳‌🇹‌🇱‌🇾‌ 🇵‌🇺‌🇷‌🇸‌🇺‌🇮‌🇳‌🇬‌ 🇲‌🇾‌ 🇨‌🇴‌🇲‌🇵‌🇺‌🇹‌🇪‌🇷‌ 🇸‌🇨‌🇮‌🇪‌🇳‌🇨‌🇪‌ 🇩‌🇪‌🇬‌🇷‌🇪‌🇪‌, <br>
   - 🇮‌ 🇦‌🇲‌ 🇮‌🇳‌🇹‌🇪‌🇷‌🇪‌🇸‌🇹‌🇪‌🇩‌ 🇮‌🇳‌ 🇷‌🇪‌🇨‌🇪‌🇳‌🇹‌ 🇹‌🇷‌🇪‌🇳‌🇩‌🇸‌ 🇮‌🇳‌ 🇼‌🇪‌🇧‌ 🇹‌🇪‌🇨‌🇭‌🇳‌🇴‌🇱‌🇴‌🇬‌🇮‌🇪‌🇸‌. <br>
-  - 🇮‌ 🇭‌🇦‌🇻‌🇪‌ 🇰‌🇳‌🇴‌🇼‌🇱‌🇪‌🇩‌🇬‌🇪‌ 🇴‌🇫‌ 🇨‌, 🇨‌++, 🇯‌🇦‌🇻‌🇦‌, 🇵‌🇾‌🇹‌🇭‌🇴‌🇳‌.<br>
+  - 🇮‌ 🇭‌🇦‌🇻‌🇪‌ 🇰‌🇳‌🇴‌🇼‌🇱‌🇪‌🇩‌🇬‌🇪‌ 🇴‌🇫‌ 🇨‌, 🇨‌++, 🇯‌🇦‌🇻‌🇦‌, 🇵‌🇾‌🇹‌🇭‌🇴‌🇳‌.<be>
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhar-savaliya&theme=monokai)
 
 
 # 𝐈 𝐜𝐨𝐝𝐞 𝐰𝐢𝐭𝐡 👇🏽
@@ -30,5 +32,6 @@ You can click the Preview link to take a look at your changes.
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]()
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7wndQ28HjM0JxUr63yN407?si=47095b7c2b414838)
 <!-- [![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~017f53992c5d2f1186) -->
+
 
 <img src="https://github.com/Nikhar-savaliya/Nikhar-savaliya/assets/127284370/5735d5aa-e4d1-4cb3-8962-1cca7879b197" width=150  align="right" />
