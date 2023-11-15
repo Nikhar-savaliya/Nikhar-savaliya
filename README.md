@@ -4,9 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 𝐇𝐢, 𝐈'𝐦 𝐍𝐢𝐤𝐡𝐚𝐫! 👋
-  - 🇮‌'🇲‌ 🇨‌🇺‌🇷‌🇷‌🇪‌🇳‌🇹‌🇱‌🇾‌ 🇵‌🇺‌🇷‌🇸‌🇺‌🇮‌🇳‌🇬‌ 🇲‌🇾‌ 🇨‌🇴‌🇲‌🇵‌🇺‌🇹‌🇪‌🇷‌ 🇸‌🇨‌🇮‌🇪‌🇳‌🇨‌🇪‌ 🇩‌🇪‌🇬‌🇷‌🇪‌🇪‌, <br>
-  - 🇮‌ 🇦‌🇲‌ 🇮‌🇳‌🇹‌🇪‌🇷‌🇪‌🇸‌🇹‌🇪‌🇩‌ 🇮‌🇳‌ 🇷‌🇪‌🇨‌🇪‌🇳‌🇹‌ 🇹‌🇷‌🇪‌🇳‌🇩‌🇸‌ 🇮‌🇳‌ 🇼‌🇪‌🇧‌ 🇹‌🇪‌🇨‌🇭‌🇳‌🇴‌🇱‌🇴‌🇬‌🇮‌🇪‌🇸‌. <br>
-  - 🇮‌ 🇭‌🇦‌🇻‌🇪‌ 🇰‌🇳‌🇴‌🇼‌🇱‌🇪‌🇩‌🇬‌🇪‌ 🇴‌🇫‌ 🇨‌, 🇨‌++, 🇯‌🇦‌🇻‌🇦‌, 🇵‌🇾‌🇹‌🇭‌🇴‌🇳‌.<be>
+
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhar-savaliya&theme=monokai)
 
