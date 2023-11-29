@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 # 𝐒𝐨𝐦𝐞 𝐥𝐢𝐧𝐤𝐬 🔗
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nikharsavaliya)
-(![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://nikhar-dev.hashnode.dev/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://nikhar-dev.hashnode.dev/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://nikhar-dev.medium.com/)
 <!-- [![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~017f53992c5d2f1186) -->
 
