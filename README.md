@@ -5,6 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 # 𝐇𝐢, 𝐈'𝐦 𝐍𝐢𝐤𝐡𝐚𝐫! 👋
 
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer" /></a>
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikhar-savaliya&theme=monokai)
 
