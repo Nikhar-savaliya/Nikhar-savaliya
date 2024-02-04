@@ -46,7 +46,7 @@
             "database": ["MongoDB"]
         },
         "Tools": {
-            "CodeEditor": "NeoVim",
+            "CodeEditor": "NeoVim && VScode",
             "Operating System": "Ubuntu"
         }
     }
