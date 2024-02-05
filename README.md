@@ -32,13 +32,13 @@
 ```JSON
 {
     "name": "Nikhar Savaliya",
-    "age": 20 ,
-    "education" : "pursuing Computer Engineering, pre-final year"
+    "age": 20,
+    "education": "pursuing Computer Engineering, pre-final year"
     "preferedTechStack": ["React", "TypeScript", "Tailwind CSS", "Express.js", "MongoDB"],
-    "focus ": ["web Development", "System Design", "Data Structure and Algorithms" ],
+    "Focus ": ["web Development", "System Design", "Data Structure and Algorithms" ],
     "technologies": {
         "frontEnd": {
-            "js": ["React JS", "Next JS" , "Typescript" ],
+            "js": ["React JS", "Next JS", "Typescript" ],
             "css": ["Tailwind CSS"]
         },
         "backEnd": {
@@ -47,7 +47,6 @@
         },
         "Tools": {
             "CodeEditor": "NeoVim && VScode",
-            "Operating System": "Ubuntu"
         }
     }
   }
