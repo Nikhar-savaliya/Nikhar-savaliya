@@ -1,10 +1,12 @@
 <!---
 @@name
 --->
-<h1>
- <!--- ${\color{#065F46}👋 \space 𝐇𝐞𝐲, \space 𝐈 \space 𝐚𝐦 \space 𝐍𝐢𝐤𝐡𝐚𝐫 \space 𝐒𝐚𝐯𝐚𝐥𝐢𝐲𝐚}$ -->
+ <!-- <h1>
+ - ${\color{#065F46}👋 \space 𝐇𝐞𝐲, \space 𝐈 \space 𝐚𝐦 \space 𝐍𝐢𝐤𝐡𝐚𝐫 \space 𝐒𝐚𝐯𝐚𝐥𝐢𝐲𝐚}$
   👋🏼 𝐇𝐞𝐲 𝐈'𝐦 𝐍𝐢𝐤𝐡𝐚𝐫 𝐒𝐚𝐯𝐚𝐥𝐢𝐲𝐚
-</h1>
+</h1> -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&duration=7000&pause=50000000&color=E4E4E7&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BC+%F0%9D%90%87%F0%9D%90%9E%F0%9D%90%B2+%F0%9D%90%88'%F0%9D%90%A6+%F0%9D%90%8D%F0%9D%90%A2%F0%9D%90%A4%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%AB+%F0%9D%90%92%F0%9D%90%9A%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%B2%F0%9D%90%9A)](https://git.io/typing-svg)
 
 <br/>
   
@@ -59,17 +61,19 @@
 --->
 
 # 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐜𝐨𝐝𝐞 𝐰𝐢𝐭𝐡 👇🏽
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![React JS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 <!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
