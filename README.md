@@ -1,176 +1,64 @@
-<h1>👋🏼 𝐇𝐞𝐲 𝐈'𝐦 𝐍𝐢𝐤𝐡𝐚𝐫 𝐒𝐚𝐯𝐚𝐥𝐢𝐲𝐚</h1>
+# 👋🏼 𝐇𝐞𝐲 𝐈'𝐦 𝐍𝐢𝐤𝐡𝐚𝐫 𝐒𝐚𝐯𝐚𝐥𝐢𝐲𝐚
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhar-savaliya&show_icons=true&theme=catppuccin_mocha&layout=donut)
+<img src="https://i.pinimg.com/originals/8d/86/42/8d8642148830fc5c69a21dc16632afbd.gif"/>
+
+<!--- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhar-savaliya&show_icons=true&theme=catppuccin_mocha&layout=donut) --->
 
 <br/>
+
+## 📽️ 𝐒𝐨𝐦𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
 <table>
  <tr>
   <td>
-   🐦‍⬛ Portfolio Website :
+   🐦‍⬛ Portfolio Website (Next.js + Tailwind + catppuccin Colors + Shadcn UI)
   </td>
   <td>
-   <a href="https://nikhar-savaliya.vercel.app">www.nikhar-savaliya.vercel.app</a>
+   🔗<a href="https://nikhar-savaliya.vercel.app">link</a>
   </td>
  </tr>
  <tr>
   <td>
-   📝 Blogging website (MERN STACK) : 
+   📝 Blogging website (MERN STACK) 
   </td>
    <td>
-   <a href="https://github.com/Nikhar-savaliya/Pearl">Pearl Blogging website(CODE)</a>
+   🔗<a href="https://github.com/Nikhar-savaliya/Pearl">link</a>
+  </td>
+ </tr>
+	<tr>
+  <td>
+   Landing Page(HTML + CSS + JS)
+  </td>
+   <td>
+   🔗<a href="https://github.com/Nikhar-savaliya/skillsensei">link</a>
   </td>
  </tr>
 </table>
-<table >
- <tr>Frontend Development</tr>
-  <tr>
-   <td align="center" > 
-     <img src="https://skillicons.dev/icons?i=html&theme=dark"  width="48" height="48"" alt="HTML"  />
-    <br>
-     <code> HTML </code>
-   </td>
 
-   <td align="center"> 
-     <img src="https://skillicons.dev/icons?i=css&theme=dark"  width="48" height="48""  alt="CSS"  />
-     <br>
-     <code> CSS </code>
-   </td>
+<br/>
 
-   <td align="center" > 
-     <img src="https://skillicons.dev/icons?i=tailwind&theme=dark"  width="48" height="48""  alt="Tailwind CSS"  />
-     <br>
-     <code> Tailwind CSS </code>
-   </td>
+## 🦥 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐒𝐤𝐢𝐥𝐥𝐬
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,ts,nextjs&theme=dark"  height="36" alt="Frontend skills"  />
 
-   <td align="center" > 
-     <img src="https://skillicons.dev/icons?i=javascript&theme=dark"  width="48" height="48"  alt="JavaScript"  />
-     <br>
-     <code> JavaScript </code>
-   </td>
-   
-   <td align="center"> 
-     <img src="https://skillicons.dev/icons?i=typescript&theme=dark"  width="48" height="48"  alt="TypeScript"  />
-     <br>
-     <code> TypeScript </code>
-   </td>
+<br/>
 
-   <td align="center" > 
-     <img src="https://skillicons.dev/icons?i=react&theme=dark"  width="48" height="48"  alt="React.js"  />
-     <br>
-     <code> React.js </code>
-   </td>
-   
-   <td align="center" > 
-     <img src="https://skillicons.dev/icons?i=redux&theme=dark"  width="48" height="48"  alt="redux"  />
-     <br>
-     <code> redux </code>
-   </td>
+## 🎧 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐒𝐤𝐢𝐥𝐥𝐬
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,firebase,postman&theme=dark"  height="36" alt="Backend skills"  />
 
-   <td align="center"> 
-     <img src="https://skillicons.dev/icons?i=next&theme=dark" width="48" height="48"  alt="Next.js"  />
-     <br>
-     <code> Next.js </code>
-   </td>
-  </tr>
-</table>
+<br/>
 
-<table>
-  <tr>Backend Development</tr>
-  <tr>
-   <td align="center" > 
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark"  width="48" height="48"" alt="Node.js" />
-    <br>
-    <code> Node.js </code>
-   </td>
-
-   <td align="center"> 
-     <img src="https://skillicons.dev/icons?i=expressjs&theme=dark"  width="48" height="48""  alt="Express.js"  />
-     <br>
-     <code> Express.js </code>
-   </td>
-
-   <td align="center" > 
-     <img src="https://skillicons.dev/icons?i=mongodb&theme=dark"  width="48" height="48""  alt="mongodb"  />
-     <br>
-     <code>mongoDB</code>
-   </td>
-
-   <td align="center" > 
-     <img src="https://skillicons.dev/icons?i=firebase&theme=dark"  width="48" height="48"  alt="firebase"  />
-     <br>
-     <code> Firebase </code>
-   </td>
-   <td align="center" > 
-     <img src="https://skillicons.dev/icons?i=postman&theme=dark"  width="48" height="48"  alt="postman"  />
-     <br>
-     <code> Postman </code>
-   </td>
-  </tr>
-</table>
-
-### 
-<table>
- Version Control
-  <tr>
-   <td align="center" > 
-    <img src="https://skillicons.dev/icons?i=git&theme=dark"  width="48" height="48"" alt="Git" />
-    <br>
-    <code> Git </code>
-   </td>
-
-   <td align="center"> 
-     <img src="https://skillicons.dev/icons?i=github&theme=dark"  width="48" height="48""  alt="github"  />
-     <br>
-     <code> Github </code>
-   </td>
-  </tr>
-</table>
-
-<table>
-   Other Tools and Technologies
- <tr>
-  <td align="center" > 
-    <img src="https://skillicons.dev/icons?i=vim&theme=dark"  width="48" height="48"" alt="vim" />
-    <br>
-    <code> vim </code>
-   </td>
-  <td align="center" > 
-    <img src="https://skillicons.dev/icons?i=vscode&theme=dark"  width="48" height="48"" alt="vs code" />
-    <br>
-    <code> vscode </code>
-   </td>
- </tr>
-  <tr>
-   <td align="center" > 
-    <img src="https://skillicons.dev/icons?i=java&theme=dark"  width="48" height="48"" alt="java" />
-    <br>
-    <code> Java </code>
-   </td>
-
-   <td align="center"> 
-     <img src="https://skillicons.dev/icons?i=cpp&theme=dark"  width="48" height="48""  alt="c++"  />
-     <br>
-     <code> C++ </code>
-   </td>
-
-   <td align="center"> 
-     <img src="https://skillicons.dev/icons?i=py&theme=dark"  width="48" height="48""  alt="Python"  />
-     <br>
-     <code> Python </code>
-   </td>
-   
-  </tr>
-</table>
-
+## 🎯 𝐎𝐭𝐡𝐞𝐫 𝐓𝐨𝐨𝐥𝐬 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
+<img src="https://skillicons.dev/icons?i=java,git,github,vim,vscode&theme=dark"  height="36" alt="other skills"  />
 
 <!---
 @@socialLinks
 --->
+<br/>
 
-# 𝐒𝐨𝐦𝐞 𝐥𝐢𝐧𝐤𝐬 🔗
+
+## 🔗 𝐒𝐨𝐦𝐞 𝐥𝐢𝐧𝐤𝐬 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nikharsavaliya)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://nikhar-dev.hashnode.dev/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://nikhar-dev.medium.com/)
