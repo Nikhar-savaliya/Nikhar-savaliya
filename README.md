@@ -51,12 +51,6 @@
      <code> JavaScript </code>
    </td>
    
-   <td align="center" > 
-     <img src="https://skillicons.dev/icons?i=jquery&theme=dark"  width="48" height="48"  alt="jquery"  />
-     <br>
-     <code> jquery </code>
-   </td>
-   
    <td align="center"> 
      <img src="https://skillicons.dev/icons?i=typescript&theme=dark"  width="48" height="48"  alt="TypeScript"  />
      <br>
