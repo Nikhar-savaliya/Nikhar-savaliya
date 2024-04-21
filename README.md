@@ -10,7 +10,7 @@
    📚 Elib - e-book store
   </td>
   <td>
-	Node + mongoodb backend && Next.js + tailwind CSS for frontend
+	Node + mongoDB backend && Next.js + tailwind CSS for frontend
   </td>
   <td>
    🔗<a href="https://github.com/nikhar-savaliya/elib-api">backend</a>
