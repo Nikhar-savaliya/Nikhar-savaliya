@@ -7,30 +7,47 @@
 <table>
  <tr>
   <td>
-   🐦‍⬛ Portfolio Website (Next.js + Tailwind + catppuccin Colors + Shadcn UI)
+   📚 Elib - e-book store
   </td>
   <td>
-   🔗<a href="https://nikhar-savaliya.vercel.app">link</a>
+	Node + mongoodb backend && Next.js + tailwind CSS for frontend
+  </td>
+  <td>
+   🔗<a href="https://github.com/nikhar-savaliya/elib-api">backend</a>
+	  -
+   <a href="https://github.com/nikhar-savaliya/elib-client">frontend</a>
   </td>
  </tr>
  <tr>
   <td>
-   📝 Blogging website (MERN STACK) 
+   📝 Blogging website 
+  </td>
+  <td>
+	  MERN STACK
   </td>
    <td>
    🔗<a href="https://github.com/Nikhar-savaliya/Pearl">link</a>
   </td>
  </tr>
-	<tr>
+ <tr>
   <td>
-   Landing Page(HTML + CSS + JS)
+   🐦‍⬛ Portfolio Website
   </td>
-   <td>
-   🔗<a href="https://github.com/Nikhar-savaliya/skillsensei">link</a>
+  <td>
+	Next.js + Tailwind + catppuccin Colors + Shadcn UI
+  </td>
+  <td>
+   🔗<a href="https://nikhar-savaliya.vercel.app">link</a>
   </td>
  </tr>
 </table>
 
+
+<!--- 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhar-savaliya&repo=pearl&theme=aura&show_icons=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhar-savaliya&repo=elib-api&theme=aura&show_icons=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhar-savaliya&repo=elib-client&theme=aura&show_icons=true)
+-->
 <br/>
 
 ## 🕸️ 𝐖𝐞𝐛 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐤𝐧𝐨𝐰
@@ -60,3 +77,5 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://nikhar-dev.medium.com/)
 <!--- [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://nikhar-dev.hashnode.dev/)
       [![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~017f53992c5d2f1186) -->
+
+![stats](https://github-readme-stats.vercel.app/api?username=nikhar-savaliya&theme=aura&show_icons=true)
