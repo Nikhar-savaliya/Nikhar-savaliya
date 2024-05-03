@@ -42,7 +42,7 @@
    🐦‍⬛ Portfolio Website
   </td>
   <td>
-	Next.js + Tailwind + catppuccin Colors + Shadcn UI
+	Next.js + Tailwind + Shadcn UI
   </td>
   <td>
    🔗<a href="https://nikhar-savaliya.vercel.app">link</a>
@@ -51,21 +51,26 @@
 </table>
 
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nikhar-savaliya&theme=dark)](https://git.io/streak-stats)
+
+![stats](https://github-readme-stats.vercel.app/api?username=nikhar-savaliya&theme=aura&show_icons=true)
+
+
 <!--- 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhar-savaliya&repo=pearl&theme=aura&show_icons=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhar-savaliya&repo=elib-api&theme=aura&show_icons=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhar-savaliya&repo=elib-client&theme=aura&show_icons=true)
 -->
-<br/>
 
-# 🕸️ 𝐖𝐞𝐛 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐤𝐧𝐨𝐰
+# 🕸️ 𝐖𝐞𝐛 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,ts,nextjs&theme=dark"  height="36" alt="Frontend skills"  />
 <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,firebase&theme=dark"  height="36" alt="Backend skills"  />
 
 
 
-# ⚒️ 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐮𝐬𝐞
-<img src="https://skillicons.dev/icons?i=postman,git,github,vim,vscode&theme=dark"  height="36" alt="web tools"  />
+# ⚒️ 𝐓𝐨𝐨𝐥𝐬 
+<img src="https://skillicons.dev/icons?i=postman,git,github,vscode,vim&theme=dark"  height="36" alt="web tools"  />
 
 
 
@@ -85,6 +90,5 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://nikhar-dev.medium.com/)
 <!--- [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://nikhar-dev.hashnode.dev/)
       [![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~017f53992c5d2f1186) 
-
-![stats](https://github-readme-stats.vercel.app/api?username=nikhar-savaliya&theme=aura&show_icons=true)
 -->
+
