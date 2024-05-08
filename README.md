@@ -52,12 +52,13 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nikhar-savaliya&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nikhar-savaliya&theme=rose_pine)](https://git.io/streak-stats)
 
-![stats](https://github-readme-stats.vercel.app/api?username=nikhar-savaliya&theme=aura&show_icons=true)
-
-
+![stats](https://github-readme-stats.vercel.app/api?username=nikhar-savaliya&theme=rose_pine&show_icons=true&rank_icon=github)
 <!--- 
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhar-savaliya&layout=compact&theme=rose_pine)
+
+
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhar-savaliya&repo=pearl&theme=aura&show_icons=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhar-savaliya&repo=elib-api&theme=aura&show_icons=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhar-savaliya&repo=elib-client&theme=aura&show_icons=true)
