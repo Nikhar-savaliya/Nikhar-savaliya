@@ -48,6 +48,17 @@
    🔗<a href="https://nikhar-savaliya.vercel.app">link</a>
   </td>
  </tr>
+<tr>
+  <td>
+   Hospital management system
+  </td>
+  <td>
+	React.js + Tailwind + Shadcn UI, Express.js+TypeScript+MongoDB
+  </td>
+  <td>
+   🔗<a href="https://github.com/Nikhar-savaliya/HospitalManagementSystem">link</a>
+  </td>
+ </tr>
 </table>
 
 
