@@ -103,4 +103,4 @@
 <!--- [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://nikhar-dev.hashnode.dev/)
       [![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~017f53992c5d2f1186) 
 -->
-
+![profile-view-count](https://komarev.com/ghpvc/?username=nikhar-savaliya&style=for-the-badge)
