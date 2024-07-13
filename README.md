@@ -35,4 +35,7 @@ I've been learning to code for the last 3 years. I started my coding journey wit
 ## Badges
 
   <img src="https://github-readme-stats.vercel.app/api?username=nikhar-savaliya&show_icons=true&hide=issues,&count_private=true&title_color=a855f7&text_color=64748b&icon_color=ffffff&bg_color=171717&hide_border=true&show_icons=true" alt="nikhar-savaliya's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhar-savaliya&stroke=64748b&background=171717&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhar-savaliya&stroke=64748b&background=171717&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhar-savaliya&layout=compact&theme=dark&hide_border=true" />
+  
+
