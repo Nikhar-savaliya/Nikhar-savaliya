@@ -6,7 +6,7 @@ I've been learning to code for the last 3 years. I started my coding journey wit
 
 * 🌍 I'm based in India
 * 🖥️ See my portfolio at [nikharsavaliya.dev](http://nikharsavaliya.vercel.app)
-* 📖 checkout my blog at [blog.nikharsavaliya.dev](https://nikharsavaliya-blog.vercel.app)
+* 📖 checkout my blog at [blog.nikharsavaliya.dev](https://nikharsavaliya.vercel.app)
 * ✉️ You can contact me at [nikhar663@gmail.com](mailto:nikhar663@gmail.com)
 * 🧠 I'm learning more about Linux, and Forcing myself to use Terminal.
 * 🤝 I'm open to collaborating on projects.
