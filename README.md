@@ -5,8 +5,7 @@
 I've been learning to code for the last 3 years. I started my coding journey with the C language. After that, my learning curve became exponential. I was learning frontend development along with Java and Python at the University. Then I started learning about networking and operating systems. After that, I learned a lot, most of which helped me create a good understanding of web development.
 
 * 🌍 I'm based in India
-* 🖥️ See my portfolio at [nikharsavaliya.dev](http://nikharsavaliya.vercel.app)
-* 📖 checkout my blog at [blog.nikharsavaliya.dev](https://nikharsavaliya.vercel.app)
+* 🖥️ See my portfolio / Blog at [nikharsavaliya.me](http://nikharsavaliya.me)
 * ✉️ You can contact me at [nikhar663@gmail.com](mailto:nikhar663@gmail.com)
 * 🧠 I'm learning more about Linux, and Forcing myself to use Terminal.
 * 🤝 I'm open to collaborating on projects.
