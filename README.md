@@ -1,5 +1,4 @@
-# 𝗛𝗶 👋 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗡𝗶𝗸𝗵𝗮𝗿 <𝐒𝐨𝐯𝐞𝐫𝐞𝐢𝐠𝐧>
-
+# 𝗛𝗶 👋 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗡𝗶𝗸𝗵𝗮𝗿
 ## Web designer & developer
 
 I've been learning to code for the last 3 years. I started my coding journey with the C language. After that, my learning curve became exponential. I was learning frontend development along with Java and Python at the University. Then I started learning about networking and operating systems. After that, I learned a lot, most of which helped me create a good understanding of web development.
