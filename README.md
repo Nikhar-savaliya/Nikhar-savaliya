@@ -1,39 +1,58 @@
-# 𝗛𝗶 👋 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗡𝗶𝗸𝗵𝗮𝗿
-## Web designer & developer
+## 𝗛𝗶 👋 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗡𝗶𝗸𝗵𝗮𝗿
 
-I've been learning to code for the last 3 years. I started my coding journey with the C language. After that, my learning curve became exponential. I was learning frontend development along with Java and Python at the University. Then I started learning about networking and operating systems. After that, I learned a lot, most of which helped me create a good understanding of web development.
+I've been learning to code since 2022. I started my coding journey with the C language. After that, my learning curve became exponential. I was learning frontend development along with Java and Python at the University. Then I started learning about networking and operating systems. Currently, I am exploring web3.
 
 * 🌍 I'm based in India
 * 🖥️ See my portfolio / Blog at [nikharsavaliya.me](http://nikharsavaliya.me)
-* ✉️ You can contact me at [nikhar663@gmail.com](mailto:nikhar663@gmail.com)
-* 🧠 I'm learning more about Linux, and Forcing myself to use Terminal.
+* 📫 You can contact me at [nikhar663@gmail.com](mailto:nikhar663@gmail.com)
+* 🧠 I'm learning about DevOps, and Forcing myself to use Terminal.
 * 🤝 I'm open to collaborating on projects.
 
-## Skills
-
-### ⚒️ Languages
-<img src="https://skillicons.dev/icons?i=c,js,php,java,py,ts&theme=dark"  height="36" alt="Frontend skills"  />
-
-### ⚒️ Frameworks
-<img src="https://skillicons.dev/icons?i=tailwind,react,express,nextjs&theme=dark"  height="36" alt="Backend skills"  />
-
-### ⚒️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql&theme=dark"  height="36" alt="Backend skills"  />
+<!-- <img alt="Discord" src="https://img.shields.io/discord/1284548472363679835?style=flat&logo=discord&logoColor=8aadf4&label=%20&labelColor=24273a&color=8aadf4"> -->
 
 
-### ⚒️ 𝐓𝐨𝐨𝐥𝐬 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma&theme=dark"  height="36" alt="web tools"  />
+## 💸 Skills
 
-## Socials
+<p>
+  <a href="https://discord.gg/vUHMxPvege">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,tailwind,express,mongodb,mysql&theme=dark"  height="36" alt="Frontend skills"  />
+  </a>
+</p>
+
+## ⚒️ Tools
+<p>
+  <a href="https://discord.gg/vUHMxPvege">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,docker,figma&theme=dark"  height="36" alt="web tools"  />
+  </a>
+</p>
+
+## 💯 Stats
+
+<details>
+  <summary>⚡ Github Stats</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhar-savaliya&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" />
+</details>
+
+
+<details>
+  <summary>🔥 GitHub Streak Stats</summary>
+  <br>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=nikhar-savaliya&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</details>
+
+<details>
+  <summary>📈 Most used languages</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhar-savaliya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Github Activity Graph" />
+</details>
+
+## Feel free to reach out 
 [![twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://x.com/nikharSavaliya/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://in.linkedin.com/in/nikharsavaliya)
-<!-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://nikhar-dev.medium.com/) -->
 
-
-## Badges
-
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhar-savaliya&show_icons=true&hide=issues,&count_private=true&title_color=a855f7&text_color=64748b&icon_color=ffffff&bg_color=171717&hide_border=true&show_icons=true" alt="nikhar-savaliya's GitHub stats" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhar-savaliya&stroke=64748b&background=171717&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhar-savaliya&layout=compact&theme=dark&hide_border=true" />
-  
-
+<hr />
+<div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nikhar-savaliya.nikhar-savaliya&format=true&left_color=%231e2030&right_color=%23363a4f" />
+©️ Nikhar Savaliya | 2024
+</div>
